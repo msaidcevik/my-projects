@@ -50,7 +50,10 @@ Resources:
             wget $FOLDER/cat0.jpg
             wget $FOLDER/cat1.jpg
             wget $FOLDER/cat2.jpg
-            wget $FOLDER/cat3.png
+            wget $FOLDER/cat3.jpg
+            wget $FOLDER/cat4.jpg
+            wget $FOLDER/cat5.jpg
+            wget $FOLDER/cat6.png
             systemctl start httpd
             systemctl enable httpd
            
